@@ -12,4 +12,9 @@ used librairies :
   * pandas
 
 [Data Source ](http://www.statmt.org/europarl/)
+License
+----
+
+[MIT](https://github.com/raed1337/language_detection/blob/master/LICENSE)
+
 
